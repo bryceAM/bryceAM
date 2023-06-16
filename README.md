@@ -20,6 +20,10 @@ My name is Bryce Malmberg, and I am a software engineer. I've always been intere
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 ![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
 
+<p align="center">
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=bryceAM&theme=ambient-gradient&hide_border=true&mode=weekly"/></a>
+</p>
+
 <!--
 **bryceAM/bryceAM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
