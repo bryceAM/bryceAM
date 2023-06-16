@@ -1,5 +1,9 @@
-## Welcome to my coding space!
-My name is Bryce Malmberg, and I am a software engineer. I've always been interested in both the technical and creative aspects of software development. Even though I've been coding for game design since I was 12, those projects were often of a simpler nature. But for the most recent list of technologies and languages that have enabled me to take my skills to the next level, please see below.
+<p align="center">
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=bryceAM&theme=ambient-gradient&hide_border=true&mode=weekly"/></a>
+</p>
+<h2 align="center">Welcome to my coding space!</h2>
+
+Hi! My name is Bryce Malmberg. I am a writer, a poet, and an artist of the mind. I've always been interested in both the technical and creative aspects of software development. Although I've been coding for game design since I was 12, the scope of those projects was very much personal and often unprofessional in nature. For the most recent list of technologies and languages that have enabled me to take my skills to the next level, please see below.
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -13,16 +17,16 @@ My name is Bryce Malmberg, and I am a software engineer. I've always been intere
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+#### Current Activities
+- Harvard CS50
+- Python
+
 #### You can find me on
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bryceAM/)
 [![LinkedIn Badge](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/brycemalmberg/)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 ![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
-
-<p align="center">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=bryceAM&theme=ambient-gradient&hide_border=true&mode=weekly"/></a>
-</p>
 
 <!--
 **bryceAM/bryceAM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
