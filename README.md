@@ -18,9 +18,10 @@ Hi! My name is Bryce Malmberg. I am a writer, a poet, and an artist of the mind.
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 #### Current Activities
-- Dynamic Programming
 - Algorithms
+- Dynamic Programming
 - Python
+- TypeScript
 - Volunteer Software Development
 
 #### You can find me on
