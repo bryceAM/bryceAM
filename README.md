@@ -21,7 +21,7 @@ Hi! My name is Bryce Malmberg. I am a writer, a poet, and an artist of the mind.
 - Algorithms
 - Dynamic Programming
 - Python
-- TypeScript
+- Webpack
 - Volunteer Software Development
 
 #### You can find me on
