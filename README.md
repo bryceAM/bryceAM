@@ -24,7 +24,7 @@ Hi! My name is Bryce Malmberg. I am a writer, a poet, and an artist of the mind.
 #### You can find me on
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bryceAM/)
 [![LinkedIn Badge](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/brycemalmberg/)
-[![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)](codepen.io/b-a-m)
+[![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)](https://codepen.io/b-a-m)
 
 <!--
 **bryceAM/bryceAM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
