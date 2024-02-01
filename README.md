@@ -3,7 +3,7 @@
 </p>
 <h2 align="center">Welcome to my coding space!</h2>
 
-Hi! My name is Bryce Malmberg. I am a writer, a poet, and an artist of the mind. I've always been interested in both the technical and creative aspects of software development. Although I've been coding for game design since I was 12, the scope of those projects was very much personal and often unprofessional in nature. For the most recent list of technologies and languages that have enabled me to take my skills to the next level, please see below.
+Hi! My name is Bryce Malmberg. I am a writer and a poet. I've always been interested in both the technical and creative aspects of software development. Although I've been coding for game design since I was 12, the scope of those projects was very much personal and often unprofessional in nature. For the most recent list of technologies and languages that have enabled me to take my skills to the next level, please see below.
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
