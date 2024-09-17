@@ -19,7 +19,6 @@ Hi! My name is Bryce Malmberg. I am a writer and a poet. I've always been intere
 
 #### Current Activities
 - JSNAD Certification Exam
-- Associate of Science
 - Foundational C# certificate with Microsoft
 - ASP.NET Core Fundamentals certificate with Pluralsight
 - Express.js Data Caching Server
