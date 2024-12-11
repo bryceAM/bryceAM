@@ -18,7 +18,7 @@ Hi! My name is Bryce Malmberg. I am a writer and a poet. I've always been intere
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 #### Current Activities
-- ASP.NET Core Fundamentals certificate with Pluralsight
+- ASP.NET Core certificate with Pluralsight
 - React browser game project
 
 #### You can find me on
