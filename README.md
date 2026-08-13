@@ -20,7 +20,13 @@ Hi! My name is Bryce Malmberg. I've always been interested in both the technical
 #### Current Activities
 - R
 - Shiny
-- Python
+- Fastify
+- tRPC
+- Vite
+- Tanstack
+- React
+- Zod
+- PostgreSQL
 
 #### You can find me on
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bryceAM/)
